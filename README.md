@@ -1,3 +1,4 @@
+
 ##The Leetcode Grind
 
 - 16/04/2024 - Valid Parentheses [Stack]
