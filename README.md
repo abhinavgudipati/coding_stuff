@@ -2,6 +2,7 @@
 # The Leetcode Grind
 
 ## Daily Timeline
+- **02/05/2024** - Unique Occurances [HashSet] [Link](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 - **20/04/2024** - Check if Array is Sorted [Array] [Easy] [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 - **19/04/2024** - Reverse Prefix of Word [Two Pointers, String] [Easy] [Link](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 - **18/04/2024** - Reverse Words in a String [Two Pointers, String] [Easy] [Link](https://leetcode.com/problems/reverse-words-in-a-string/description/)
